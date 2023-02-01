@@ -1,6 +1,6 @@
 .h1 {
     color: red;
-    justify: center;
+    justify-self: center;
 }
 
 .h2 {
@@ -9,4 +9,14 @@
 
 .longPara {
     padding: 2;
+}
+
+.increaseFontWeight {
+    font-weight: 700;
+    font-style: Arial;
+}
+
+.AustinPic {
+    border-color: blue;
+    margin: 3;
 }
